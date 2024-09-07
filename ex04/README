@@ -1,0 +1,5 @@
+	after running:
+hello world belyakovadep package
+
+	saved in file with:
+ros2 run belyakovadep my_node > ex04.txt

@@ -1,0 +1,4 @@
+to run use:
+	ros2 run text_to_cmd_vel text_to_cmd_vel
+	
+didn't really understand which part of the project must be named "text_to_cmd_vel" so everything there is named that way. :D
